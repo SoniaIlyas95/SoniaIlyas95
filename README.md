@@ -1,5 +1,5 @@
 # 👋 Hi, I’m SoniaIlyas
-- 🌱 I’m currently learning python, ML Algorithms.Ask me about anything related to Python 
+- 🌱 I’m currently learning python, ML Algorithms.Ask me about anything related to Python.
 - 📫 How to reach me https://www.linkedin.com/in/sonia-ilyas-9414161b7/ on linkedIn
 
 <!---
